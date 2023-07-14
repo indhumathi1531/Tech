@@ -3,9 +3,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Goods {
-int S_No;
-String Product;
-int Prize, GST, Qnt;
+ int S_No;
+ String Product;
+ int Prize, GST, Qnt;
 
 public Goods(int S_No, String Product, int Prize, int GST, int Qnt) {
  this.S_No = S_No;
